@@ -1,0 +1,9 @@
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/bin/Debug/netstandard2.0/GeneticsEngine.deps.json
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/bin/Debug/netstandard2.0/GeneticsEngine.dll
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/bin/Debug/netstandard2.0/GeneticsEngine.pdb
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/obj/Debug/netstandard2.0/GeneticsEngine.csprojAssemblyReference.cache
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/obj/Debug/netstandard2.0/GeneticsEngine.csproj.CoreCompileInputs.cache
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/obj/Debug/netstandard2.0/GeneticsEngine.AssemblyInfoInputs.cache
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/obj/Debug/netstandard2.0/GeneticsEngine.AssemblyInfo.cs
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/obj/Debug/netstandard2.0/GeneticsEngine.dll
+/Users/benzidrine/Repos/GenAlgoHelloWorld/GeneticsEngine/obj/Debug/netstandard2.0/GeneticsEngine.pdb
